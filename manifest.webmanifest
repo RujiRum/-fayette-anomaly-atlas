@@ -1,0 +1,21 @@
+{
+  "name": "Fayette County Anomaly Atlas",
+  "short_name": "Fayette Atlas",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "description": "Interactive Fayette County terrain, LiDAR, historical imagery and anomaly research atlas.",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
